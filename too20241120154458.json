@@ -1,0 +1,10 @@
+{
+    "too_time": 1732146298,
+    "next_pass": {
+        "facility": "MLD_13M1",
+        "pass_time": 1732193842,
+        "pass_message": "Earliest possible pass: 2024-11-21 04:57:22 (MLD_13M1)"
+    },
+    "bright": false,
+    "message": "TEST MESSAGE: We have received a rapid response target-of-opportunity trigger, approved 2024-11-20 15:44:58. This target has been given temporary ToO Obs ID: 24112014. OPRM generation is in progress, to be delivered in time for ATS upload during pass at 2024-11-21 04:57:22 (MLD_13M1)."
+}
